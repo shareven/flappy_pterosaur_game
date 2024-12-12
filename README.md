@@ -6,4 +6,4 @@
 
 ## Download
 
-
+[Android apk](https://github.com/shareven/flappy_pterosaur_game/releases/download/v1.0.1/default.apk)
